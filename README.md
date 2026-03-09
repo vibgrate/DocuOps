@@ -1,7 +1,5 @@
 
-# DocuOps Spec
-
-**Documentation-Driven Infrastructure**
+# DocuOps - Documentation-Driven Infrastructure
 
 DocuOps is a documentation-first infrastructure specification format built on Markdown.
 
