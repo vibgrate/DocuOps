@@ -1,4 +1,4 @@
-![DocuOps Logo](./docuops-logo.png)
+![DocuOps Logo](./docuops-logo-512.png)
 
 # DocuOps - Documentation-Driven Infrastructure
 
